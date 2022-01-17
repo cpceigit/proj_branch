@@ -5,11 +5,11 @@ int main(void){
     printf("<html>\n");
     printf("<head>\n");
     printf("<title>\n");
-    printf("cgi-sample\n");
+    printf("git sample\n");
     printf("</title>\n");
     printf("</head>\n");
     printf("<body>\n");
-    printf("<h1>cgitest.cgi!!!!!!!!!!!</h1>\n");
+    printf("<h1>cgitest.cgi from git</h1>\n");
     printf("</body>\n");
     printf("</html>\n");
     return 0;
